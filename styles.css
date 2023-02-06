@@ -4,11 +4,65 @@
     box-sizing: border-box;
     font-family: 'Robot', sans-serif;
     border: black solid 1px;
+    color: rgba(255, 255, 255, 0.764);
 }
 
+/* header group */
 .header {
+    padding: 20px 60px;
     background-color: #348888;
 }
+
+/* header first layer */
+.header-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header-logo-container{
+    font-weight: bold;
+}
+.header-logo-link {
+    display: flex;
+    gap: 10px;
+}
+
+/* header second layer */
+.header-info {
+    display: flex;
+}
+
+.web-container {
+    flex: 1;
+}
+
+.awesome {
+    font-weight: bold;
+    font-size: 48px;
+}
+.web-info {
+    font-size: 18px;
+}
+.sign-up-header {
+    background-color: #3882f6;
+    color: rgb(212, 212, 212);
+    border-radius: 5px;
+    border-style: none;
+    padding: 7px 20px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.placeholder {
+    flex: 1;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 .info {
     background-color: #22babb;
