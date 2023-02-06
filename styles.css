@@ -63,10 +63,39 @@
     align-items: center;
 }
 
-
+/* info section */
 .info {
     background-color: #22babb;
+    padding: 20px 60px;
 }
+
+.info > p {
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 36px;
+}
+
+.info-container {
+    font-size: 15px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.info-card > p {
+    text-align: center;
+}
+.box {
+    display: flex;
+    height: 150px;
+    border-color: #f24405;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 5px;
+}
+
 
 .info-add {
     background-color: #9ef8ee;
