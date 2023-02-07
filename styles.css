@@ -25,9 +25,6 @@ img {
     margin-bottom: 120px;
 }
 
-.header-logo-container{
-    font-weight: bold;
-}
 .header-logo-link, a{
     display: flex;
     gap: 10px;
@@ -36,7 +33,7 @@ img {
 /* header second layer */
 .header-info {
     display: flex;
-    gap: 20px;
+    gap: 100px;
 }
 
 .awesome {
