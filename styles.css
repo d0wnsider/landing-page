@@ -56,10 +56,12 @@ img {
     background-color: #22babb;
     color: #9ef8ee;
     border-radius: 5px;
-    border-style: none;
+    border-style: solid;
+    border-color: #9ef8ee;
     padding: 7px 20px;
     font-size: 10px;
     font-weight: bold;
+    cursor: pointer;
 }
 /* image holder */
 .placeholder {
@@ -164,6 +166,7 @@ img {
     padding: 10px 20px;
     font-size: 10px;
     font-weight: bold;
+    cursor: pointer;
 }
 /* footer section */
 .footer {
