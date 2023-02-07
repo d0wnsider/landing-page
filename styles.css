@@ -5,6 +5,11 @@
     font-family: 'Roboto', sans-serif;
     color: rgba(255, 255, 255, 0.764);
 }
+
+body {
+    
+}
+
 /* header group */
 .header {
     padding: 30px 100px;
@@ -57,13 +62,15 @@
     font-size: 10px;
     font-weight: bold;
 }
-
+/* image holder */
 .placeholder {
     flex: 1;
     background-color: gray;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 500px;
+    height: 500px;
 }
 /* info section */
 .info {
