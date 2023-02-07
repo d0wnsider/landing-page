@@ -106,17 +106,39 @@
 .quote {
     color: rgba(255, 255, 255, 0.764);
 }
-
 .quote-add {
     display: flex;
     justify-content: flex-end;
     color: #348888;
 }
 
-.sign-up {
+.sign-up{
+    display: flex;
+    padding: 50px;
     background-color: #fa7f08;
+    margin: 50px 150px;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.call {
+    font-size: 20px;
+}
+.call-info {
+    font-size: 10px;
+}
+.sign-up-button {
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.764);
+    border-radius: 10px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px 15px;
+    font-size: 10px;
+    font-weight: bold;
 }
 
 .footer {
     background-color: #f24405;
+    
 }
