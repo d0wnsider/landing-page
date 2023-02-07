@@ -99,6 +99,18 @@
 
 .info-add {
     background-color: #9ef8ee;
+    padding: 150px 200px;
+    font-size: 36px;
+    font-style: italic;
+}
+.quote {
+    color: rgba(255, 255, 255, 0.764);
+}
+
+.quote-add {
+    display: flex;
+    justify-content: flex-end;
+    color: #348888;
 }
 
 .sign-up {
