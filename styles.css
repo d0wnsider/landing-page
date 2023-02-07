@@ -5,9 +5,10 @@
     font-family: 'Roboto', sans-serif;
     color: rgba(255, 255, 255, 0.764);
 }
-
-body {
-    
+/* auto resize image on containers */
+img {
+    width: 100%;
+    height: 100%;
 }
 
 /* header group */
