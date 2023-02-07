@@ -139,10 +139,10 @@ img {
     font-size: 10px;
 }
 .sign-up-button {
-    background-color: transparent;
-    color: rgba(255, 255, 255, 0.764);
+    background-color: #f24405;
+    color: #9ef8ee;
     border-radius: 10px;
-    border-color: white;
+    border-color: #9ef8ee;
     border-style: solid;
     padding: 5px 15px;
     font-size: 10px;
