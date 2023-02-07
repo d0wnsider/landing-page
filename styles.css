@@ -116,11 +116,14 @@ img {
     color: rgba(255, 255, 255, 0.764);
     font-size: 36px;
     font-style: italic;
+    text-decoration: underline;
+    text-shadow: .2em -.1em .2em #fa7f08;
 }
 .quote-add {
     display: flex;
     justify-content: flex-end;
     color: #348888;
+    font-weight: bold;
 }
 /* sign-up section */
 .sign-up {
