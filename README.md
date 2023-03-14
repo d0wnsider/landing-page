@@ -5,7 +5,7 @@
 * HTML
 * CSS
 
-<p><a href="https://www.theodinproject.com/lessons/foundations-calculator">The Odin Project</a></p>
+<p><a href="https://www.theodinproject.com/lessons/foundations-landing-page">The Odin Project</a></p>
 
 <p>Thanks</p>
 <p>Photo by Zetong Li: https://www.pexels.com/photo/orange-jellyfish-wallpaper-1784578/</p>
